@@ -13,7 +13,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NullOnyx | PWA Encryption",
+  title: "NullOnyx",
   description: "Strictly client-side, self-hostable PWA encryption tool.",
   manifest: "/manifest.json",
 };
