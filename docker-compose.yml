@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  nullonyx:
+    build: .
+    container_name: nullonyx
+    ports:
+      - "3000:80"
+    restart: unless-stopped
