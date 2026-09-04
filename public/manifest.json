@@ -1,0 +1,21 @@
+{
+  "name": "NullOnyx Encryption",
+  "short_name": "NullOnyx",
+  "description": "Strictly client-side, self-hostable PWA encryption tool.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090B",
+  "theme_color": "#00FF41",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
